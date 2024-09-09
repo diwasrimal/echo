@@ -1,0 +1,6 @@
+[submodule "echo-backend"]
+	path = echo-backend
+	url = git@github.com:diwasrimal/echo-backend
+[submodule "echo-frontend"]
+	path = echo-frontend
+	url = git@github.com:diwasrimal/echo-frontend
