@@ -1,6 +1,8 @@
 [submodule "echo-backend"]
 	path = echo-backend
+	branch = main
 	url = git@github.com:diwasrimal/echo-backend
 [submodule "echo-frontend"]
 	path = echo-frontend
+	branch = main
 	url = git@github.com:diwasrimal/echo-frontend
